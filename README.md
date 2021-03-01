@@ -27,7 +27,6 @@ The goals / steps of this project are the following:
 [image5]: ./output_images/after_perspective.png "After Perspective Change"
 [image6]: ./output_images/lane_region.png "Lane Region"
 [image7]: ./output_images/final_output.png "Output"
-[video1]: ./project_video.mp4 "Video"
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
 
